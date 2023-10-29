@@ -1,3 +1,4 @@
+// JavaScript for my website - 0xR3TR0
 // Get DOM elements
 const gameContainer = document.querySelector(".container");
 const userResult = document.querySelector(".user_result img");
