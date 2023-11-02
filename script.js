@@ -1,4 +1,4 @@
-// JavaScript for my website - 0xR3TR0
+// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved.
 // Get DOM elements
 const gameContainer = document.querySelector(".container");
 const userResult = document.querySelector(".user_result img");
